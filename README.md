@@ -1,24 +1,53 @@
-# calculator
+<h1 align="center">  Projeto Calculadora </h1>
 
-## Project setup
-```
-yarn install
+## 👾 Requisitos
+
+- [Node Js 16](https://nodejs.org/en/blog/release/v16.16.0/)
+- [(IDE) recomendo o VsCode](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/)
+
+## 🚀 Iniciando o projeto
+
+### Clone o projeto
+
+```powershell
+$ git clone https://github.com/rafaelmasselli/FrontEnd-calculator-VueJS
+#Entre na pasta
+$ cd FrontEnd-calculator-VueJS
 ```
 
-### Compiles and hot-reloads for development
+### Instalando as dependencies
+
+```powershell
+yarn
 ```
+
+### Compila e recarrega o projeto para desenvolvimento
+
+```powershell
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+### E assim ira abrir o projeto
+
+<div align="center">
+
+![exemplo do projeto](/.github/Screenshot_calculator.png)
+
+</div>
+
+### Compila e minifica para produção
+
+```powershell
 yarn build
 ```
 
-### Lints and fixes files
-```
+### Lints e corrige arquivos
+
+```powershell
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Personalizar configuração
+
+[Referência de configuração](https://cli.vuejs.org/config/).
